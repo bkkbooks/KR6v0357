@@ -1,0 +1,110 @@
+canonical_identifier: bkk:krp/KR6v0357/v1
+canonical_location: https://kanripo.org/bkk/KR6v0357/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 涅般道大手印瑜伽法要釋
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B10/B10n0058.xml
+    old_id: B10n0058
+  edition:
+    short: bkk
+editions:
+- short: 補編
+  label: 補編
+  source_xml_id: wit.orig
+- short: B
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0357_000.yaml, hash: 'sha256:d9c6b0a9b14670d7c57a9edc2ac08ae8847462b574ec40a2473f54df2277e5f2'}
+  - {seq: 1, filename: KR6v0357_001.yaml, hash: 'sha256:9ff7fafc29018672a8baf6c360c5e6e612d729643a36209de44840fad4ec1b40'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0357_000.markers.yaml, hash: 'sha256:1f3ba270127b3ffc1def3f39b064d6d6e0c071acf643135153a9e7a37d3647d8'}
+  - {seq: 1, role: markers, filename: assets/KR6v0357_001.markers.yaml, hash: 'sha256:042785c90f60b590fa288b241fce2f72304a32c83a4cde9ae3d2e957fa0bff5f'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6v0357_B_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 編者原敘
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0357_B_000-mulu-2
+    span:
+    - front
+    - 22
+    - 22
+  label: （一）大手印教法之由來
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0357_B_000-mulu-3
+    span:
+    - front
+    - 1105
+    - 1105
+  label: （二）原文及英譯
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0357_B_000-mulu-4
+    span:
+    - front
+    - 2750
+    - 2750
+  label: （三）大手印教法之勝義
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0357_B_000-mulu-5
+    span:
+    - front
+    - 3474
+    - 3474
+  label: （四）上師系統
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0357_B_000-mulu-6
+    span:
+    - front
+    - 4964
+    - 4964
+  label: 科文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0357_B_001-juan-start
+    span:
+    - body
+    - 0
+    - 15957
+  label: 涅般道大手印瑜珈法要釋
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0357_B_001-mulu-1
+    span:
+    - body
+    - 49
+    - 49
+  label: 本文
+  type: mulu
+  level: 1
+hash: sha256:d3b089e7b94ec400e9d395a531d197a4cb2f3c9ce7c9bc0fc39e5ccd85bfcee6
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
