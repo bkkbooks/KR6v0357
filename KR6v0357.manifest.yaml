@@ -18,17 +18,17 @@ editions:
 - short: B
 assets:
   parts:
-  - {seq: 0, filename: KR6v0357_000.yaml, hash: 'sha256:b017773c98d2ad79e7af0c2b2c79847e55f26725ac1c437d2ba92362b07678c7'}
+  - {seq: 0, filename: KR6v0357_000.yaml, hash: 'sha256:6e60866ced8eba119f3d27894c31052b680e832d1191e7a1f07d39b4fab62bb0'}
   - {seq: 1, filename: KR6v0357_001.yaml, hash: 'sha256:5d5751119932fdcc22667bdfc5578d37981d9bc0dd0d95921cc46ddaceaeaa6e'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0357_000.markers.yaml, hash: 'sha256:35da008ba31f1942f209f121c355b0db9b35112561b0f475d5b99ecdf346aa51'}
+  - {seq: 0, role: markers, filename: assets/KR6v0357_000.markers.yaml, hash: 'sha256:ce5162bcff338b5f69299c181f8c487166a2ba867969b746830315fb5020b4c5'}
   - {seq: 1, role: markers, filename: assets/KR6v0357_001.markers.yaml, hash: 'sha256:aa2d8ed97f752f10d411956c551e81ee78ac2ecc4594386407be3adf1966c823'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6v0357_B_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 編者原敘
@@ -38,7 +38,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0357_B_000-mulu-2
     span:
-    - front
+    - body
     - 22
     - 22
   label: （一）大手印教法之由來
@@ -48,7 +48,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0357_B_000-mulu-3
     span:
-    - front
+    - body
     - 1105
     - 1105
   label: （二）原文及英譯
@@ -58,7 +58,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0357_B_000-mulu-4
     span:
-    - front
+    - body
     - 2750
     - 2750
   label: （三）大手印教法之勝義
@@ -68,7 +68,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0357_B_000-mulu-5
     span:
-    - front
+    - body
     - 3474
     - 3474
   label: （四）上師系統
@@ -78,7 +78,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0357_B_000-mulu-6
     span:
-    - front
+    - body
     - 4964
     - 4964
   label: 科文
@@ -104,7 +104,7 @@ table_of_contents:
   label: 本文
   type: mulu
   level: 1
-hash: sha256:dfe5a7e30c92fc46b713881cecd12e2c32b265cf6e5cb153a8e8daf7c588dc51
+hash: sha256:28328ded2cb4f0280b256fd05a15ebd3346cf29f4daddd76b512f1ce4881453f
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
